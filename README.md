@@ -1,2 +1,5 @@
-# shell-script-demos
-This is a demonstration of shell scripting with BASH using single and multiple Vagrant CentOS7 Nodes in my Homelab.
+# SHELL SCRIPT TEMPLATES
+
+## Here are verious Shell Scripts I wrote to demonstrate possible usage scenarios for automation with Linux.
+
+## For testing, I recommend setting up a multi node environment with Vagrant and Oracle Virtual Box.
